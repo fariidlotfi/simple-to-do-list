@@ -1,0 +1,25 @@
+.task-box-temp{
+    box-shadow: 0 2px 10px #ddd;
+    padding: 5px 10px;
+    min-height: 30px;
+    border-radius: 6px;
+    background-color: #fff;
+    scale: 1;
+    transition: all 1s ease;
+}
+
+.t2-task-color {
+    width: 20px;
+    height: 5px;
+    border-radius: 12px;
+}
+
+.t2-extra-card-info{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.t2-extra-card-info img{
+    cursor: pointer;
+}
