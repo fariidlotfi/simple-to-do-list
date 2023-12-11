@@ -1,8 +1,6 @@
-# React + Vite
+this app is a simple to-do list and doesont save anything in backend or local storage
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+this is the UI of the App
 
-Currently, two official plugins are available:
+![simple to do list app](https://github.com/fariidlotfi/simple-to-do-list/assets/138003177/a599de03-2c8c-4c73-84fe-63cf4abae5f0)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
