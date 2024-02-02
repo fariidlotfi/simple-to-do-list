@@ -114,7 +114,7 @@ export default function App() {
                   <option value="not-complete">فعال‌ها</option>
                 </select>
               </div>
-              <img src="/src/assets/white-gear.svg" />
+              <img src="assets/white-gear.svg" />
             </div>
 
             <div className="all-task-section">

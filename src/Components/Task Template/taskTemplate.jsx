@@ -24,11 +24,11 @@ export default function taskTemplate(params) {
           ></div>
           <div className="btns">
             <img
-              src="src/assets/check.svg"
+              src="assets/check.svg"
               onClick={() => returnTaskID(id)}
             />
             <img
-              src="src/assets/delete.svg"
+              src="assets/delete.svg"
               onClick={() => {
                 returnID(id);
               }}
